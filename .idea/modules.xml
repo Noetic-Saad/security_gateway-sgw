@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/03-subscription_gateway_security.iml" filepath="$PROJECT_DIR$/.idea/03-subscription_gateway_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sgw-security-gateway.iml" filepath="$PROJECT_DIR$/.idea/sgw-security-gateway.iml" />
     </modules>
   </component>
 </project>

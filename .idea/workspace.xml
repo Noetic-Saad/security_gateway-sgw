@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0319b898-1214-4243-b372-08f6443d51a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sgw-security-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__postgresql_postgresql_9_1_901_1_jdbc4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/noetic/subscriptiongatewaysecurity/service/SchedulerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noetic/subscriptiongatewaysecurity/service/SchedulerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/SubscriptionGatewaySecurity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/SubscriptionGatewaySecurity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/config/SerializableObjectConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/config/SerializableObjectConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/service/AccessTokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/service/AccessTokenService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/service/ClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/service/ClientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/service/LoginAttemptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/noetic/subscriptiongatewaysecurity/service/LoginAttemptService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +25,15 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -48,12 +53,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/saad/Projects/SGW/sgw-security-gateway&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

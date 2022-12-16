@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="03-subscription_gateway_security" />
+        <module name="sgw-security-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="03-subscription_gateway_security" target="1.8" />
+      <module name="sgw-security-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
